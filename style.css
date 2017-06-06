@@ -1,0 +1,53 @@
+@font-face {
+    font-family: "Pecita";
+    src: url(Pecita.otf) format("openType");
+}
+.pecita { 
+    font-family: "Pecita", Verdana, Tahoma;
+}
+
+@font-face {
+    font-family: "StencilStd";
+    src: url(StencilStd.otf) format("openType");
+}
+.stencil-std { 
+    font-family: "StencilStd", Verdana, Tahoma;
+}
+
+@font-face {
+    font-family: "RomaMonumental";
+    src: url(RomaMonumentalBC.ttf) format("trueType");
+}
+.roma { 
+    font-family: "RomaMonumental", Verdana, Tahoma;
+}
+
+.helveticamazing {
+    font-family: "Helveticamazing", Verdana, Tahoma;
+}
+
+@font-face {
+    font-family: "Helveticamazing";
+    src: url(Helveticamazing.ttf) format("trueType")
+}
+
+h1 {
+    padding-top: 20px;
+}
+
+.mySlides {display:none;}
+.w3-left, .w3-right, .w3-badge {cursor:pointer;}
+.w3-badge {height:13px;width:13px;padding:0;}
+
+li:hover {
+  font-size: 130%;
+}
+
+#map {
+        height: 400px;
+        width: 100%;
+       }
+
+.social-media {
+    width: 10%;
+}
